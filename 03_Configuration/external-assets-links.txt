@@ -1,0 +1,30 @@
+
+010 Bootstrap-Demo-Site-Alternative-
+https://getbootstrap.com/
+
+012 NGINX-Docs-Variables
+http://nginx.org/en/docs/varindex.html
+
+012 Article-IF-is-Evil
+https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil/
+
+013 HTTP-Status-Code-Reference
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+015 NGINX-Docs-error-log
+http://nginx.org/en/docs/ngx_core_module.html#error_log
+
+015 NGINX-Docs-access-log
+http://nginx.org/en/docs/http/ngx_http_log_module.html
+
+015 Article-Configuring-Logging
+https://docs.nginx.com/nginx/admin-guide/monitoring/logging/
+
+017 Article-Understanding-and-Implementing-FastCGI-Proxying-in-NGINX
+https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
+
+019 NGINX-Docs-Configuration-file-measurement-units
+http://nginx.org/en/docs/syntax.html
+
+020 NGINX-Docs-ngx-http-image-filter-module
+http://nginx.org/en/docs/http/ngx_http_image_filter_module.html
