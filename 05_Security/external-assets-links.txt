@@ -1,0 +1,30 @@
+
+026 Wikipedia-Diffie-Hellman-key-exchange
+https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+
+026 Article-Algorithms-Explained-Diffie-Hellman
+https://hackernoon.com/algorithms-explained-diffie-hellman-1034210d5100
+
+027 Siege-Load-Testing-Tool
+https://www.joedog.org/siege-home/
+
+027 Article-NGINX-rate-limiting-in-a-nutshell
+https://medium.freecodecamp.org/nginx-rate-limiting-in-a-nutshell-128fe9e0126c
+
+027 Article-Rate-Limiting-NGINX
+https://www.nginx.com/blog/rate-limiting-nginx/
+
+030 Lets-Encrypt
+https://letsencrypt.org
+
+030 Certbot
+https://certbot.eff.org
+
+030 Lets-Encrypt-90-Day-Lifetime
+https://letsencrypt.org/2015/11/09/why-90-days.html
+
+030 Certbot-Docs
+https://certbot.eff.org/docs/
+
+030 An-Introduction-to-Lets-Encrypt-Digital-Ocean
+https://www.digitalocean.com/community/tutorials/an-introduction-to-let-s-encrypt

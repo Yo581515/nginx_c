@@ -1,0 +1,36 @@
+
+031 PHP-Built-in-web-server
+http://php.net/manual/en/features.commandline.webserver.php
+
+031 List-of-static-command-line-servers.One-liners
+https://gist.github.com/willurd/5720255
+
+032 NGINX-Reverse-Proxy-Guide
+ https://www.nginx.com/resources/admin-guide/reverse-proxy/
+
+032 ngx-http-proxy-module-Documentation
+http://nginx.org/en/docs/http/ngx_http_proxy_module.html
+
+033 Docs-Using-NGINX-asa-Load-Balancer
+http://nginx.org/en/docs/http/load_balancing.html
+
+033 NGINX-Load-Balancing-Guide
+https://www.nginx.com/resources/admin-guide/load-balancer/
+
+033 ngx-http-upstream-module-Documentation
+http://nginx.org/en/docs/http/ngx_http_upstream_module.html
+
+035 Ninx-Documentation
+http://nginx.org/en/docs/
+
+035 Common-Pitfalls
+https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
+
+035 Digital-Ocean-Tutorials
+https://www.digitalocean.com/community/search?q=nginx
+
+035 WordPress-Nginx
+https://codex.wordpress.org/Nginx
+
+035 Nginx-Resources
+https://github.com/fcambus/nginx-resources
